@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .First_Panel{
    margin: auto;
    height: 100px;
